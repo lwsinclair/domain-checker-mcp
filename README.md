@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aljazceru-domain-checker-mcp-badge.png)](https://mseep.ai/app/aljazceru-domain-checker-mcp)
+
 # domain-checker-mcp
 Give LLM an ability to check if domain is available or already registered
 
